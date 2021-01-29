@@ -1,0 +1,2 @@
+Data Modeling with Postgres
+The purpose of this project is to create a Postgres database with tables for a startup wants to analyse the data they've been collecting on songs and user activity on their new music straming app. Fact and dimension tables for a particular anlytic focus need to be defined, and ETL pipeline that transfers data from local dir into tables in Postgres.
